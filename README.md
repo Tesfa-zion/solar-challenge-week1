@@ -3,12 +3,11 @@ This repository contains the foundational setup for the 10 Academy Week 1 Solar 
 
 🚀 Project Overview
 The goal of this initial setup is to ensure:
-
-A reproducible Python development environment
-Proper version control and branching strategy
-Automated checks using GitHub Actions
-A scalable project folder structure for future work
-🔧 Environment Setup
+ A reproducible Python development environment
+ Proper version control and branching strategy
+ Automated checks using GitHub Actions
+ A scalable project folder structure for future work
+ 🔧 Environment Setup
 This project uses a virtual environment to isolate dependencies.
 
 Steps to reproduce:
