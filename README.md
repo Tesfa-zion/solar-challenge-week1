@@ -9,25 +9,13 @@ The goal of this initial setup is to ensure:
  A scalable project folder structure for future work
  🔧 Environment Setup
 This project uses a virtual environment to isolate dependencies.
-
 Steps to reproduce:
 git clone https://github.com/<your-username>/solar-challenge-week1.git
 cd solar-challenge-week1
-
-# Option A: Using venv
-python3 -m venv venv
-source venv/bin/activate
-
-# Option B: Using conda
-conda create --name solar_challenge python=3.10
-conda activate solar_challenge
-
 # Install project dependencies
 pip install -r requirements.txt
-
 #workflow
 .github/workflows/ci.yml
-
 #structure
 solar-challenge-week1/
 ├── .github/
