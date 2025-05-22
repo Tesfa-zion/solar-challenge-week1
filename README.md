@@ -13,8 +13,13 @@ The goal of this initial setup is to ensure:
 - ✅ Proper version control and branching strategy  
 - ✅ Automated checks using GitHub Actions  
 - ✅ A scalable project folder structure for future work  
+## 📓 Notebooks
 
----
+- [Benin EDA](notebooks/1_Benin_eda.ipynb)
+- [Sierra Leone EDA](notebooks/2_Sierra-Leone_eda.ipynb)
+- [Togo EDA](notebooks/3_Togo_eda.ipynb)
+- [Cross Country Comparison](notebooks/Cross_Country_Comparison.ipynb)
+
 
 ## 🔧 Environment Setup
 
